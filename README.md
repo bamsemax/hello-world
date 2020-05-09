@@ -1,3 +1,3 @@
 # hello-world
 education
-my name is Max
+my name is Maxim
